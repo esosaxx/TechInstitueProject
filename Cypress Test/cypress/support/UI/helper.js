@@ -1,0 +1,1 @@
+export const uiPassword = Cypress.env('password');

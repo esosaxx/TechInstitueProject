@@ -1,0 +1,6 @@
+{
+    "loginButton": "form > .btn",
+    "emailField": "#input-email",
+    "passwordField": "#input-password"
+    
+}

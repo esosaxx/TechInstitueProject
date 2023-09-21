@@ -1,0 +1,6 @@
+{
+    "clickNewsletterButton" : "cy.contains('newsletter')",
+    "newsletterSubscription" : ".float-right > .btn",
+    "searchField" : ".vue-container",
+    "searchButton": ".type-text"
+}
